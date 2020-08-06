@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Aspergent</title>
-    <link href="https://hsberg.github.io/aspergentblog/feed.xml" rel="self" />
-    <link href="https://hsberg.github.io/aspergentblog" />
+    <link href="https://aspergent.tk/feed.xml" rel="self" />
+    <link href="https://aspergent.tk" />
     <updated>1969-12-31T19:00:00-05:00</updated>
     <author>
         <name>Harry</name>
     </author>
-    <id>https://hsberg.github.io/aspergentblog</id>
+    <id>https://aspergent.tk</id>
 
     <entry>
         <title>Travelling.</title>
         <author>
             <name>Harry</name>
         </author>
-        <link href="https://hsberg.github.io/aspergentblog/travelling.html"/>
-        <id>https://hsberg.github.io/aspergentblog/travelling.html</id>
+        <link href="https://aspergent.tk/travelling.html"/>
+        <id>https://aspergent.tk/travelling.html</id>
 
-        <updated>2020-08-06T19:38:25-04:00</updated>
+        <updated>2020-08-06T19:39:36-04:00</updated>
             <summary>
                 <![CDATA[
                     <hr class="separator separator--long-line" />
